@@ -1,38 +1,11 @@
 [
-  {
-    "name": "Common Egg",
-    "rarityLevel": 1
-  },
-  {
-    "name": "Common Summer Egg",
-    "rarityLevel": 2
-  },
-  {
-    "name": "Uncommon Egg",
-    "rarityLevel": 3
-  },
-  {
-    "name": "Rare Egg",
-    "rarityLevel": 4
-  },
-  {
-    "name": "Rare Summer Egg",
-    "rarityLevel": 5
-  },
-  {
-    "name": "Legendary Egg",
-    "rarityLevel": 6
-  },
-  {
-    "name": "Mythical Egg",
-    "rarityLevel": 7
-  },
-  {
-    "name": "Bug Egg",
-    "rarityLevel": 8
-  },
-  {
-    "name": "Paradise Egg",
-    "rarityLevel": 9
-  }
+  "Common Egg",
+  "Uncommon Egg",
+  "Rare Egg",
+  "Legendary Egg",
+  "Mythical Egg",
+  "Bug Egg",
+  "Rare Summer Egg",
+  "Paradise Egg",
+  "Common Summer Egg"
 ]
